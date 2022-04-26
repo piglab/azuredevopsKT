@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T09:54:40.415Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="906QOiJfnKS-NoDSX8mv" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-26T09:56:52.544Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="2VTVy-QYNGvMgUroC78L" version="17.4.6" type="github">
   <diagram id="CXVG7vs0zBUS6ajzZXRc" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -192,6 +192,12 @@
         </mxCell>
         <mxCell id="Okl-b59bCGvQ6j7a5-xh-68" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/32x32/actions/ok.png;labelBorderColor=default;fontSize=12;fontColor=#000000;strokeColor=default;fillColor=#FFB570;" vertex="1" parent="1">
           <mxGeometry x="1428" y="216" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Okl-b59bCGvQ6j7a5-xh-69" value="business analyst" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;fontColor=#004C99;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="215" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Okl-b59bCGvQ6j7a5-xh-70" value="feature tests" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="211" width="80" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
