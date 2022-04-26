@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T08:31:33.280Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="HqpMtfBN6ZjdlhS2vGrA" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-26T09:00:44.032Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="MK-ijfaMzey7zJOBwCI3" version="17.4.6" type="github">
   <diagram id="CXVG7vs0zBUS6ajzZXRc" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="Okl-b59bCGvQ6j7a5-xh-4" value="Central&lt;br&gt;Git &lt;br&gt;Repository" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#99CCFF;strokeColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="261" y="40" width="80" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Okl-b59bCGvQ6j7a5-xh-5" value="Local&lt;br&gt;Git &lt;br&gt;Repository" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#99FFFF;strokeColor=#00CCCC;" vertex="1" parent="1">
+        <mxCell id="Okl-b59bCGvQ6j7a5-xh-5" value="Local&lt;br&gt;Git &lt;br&gt;Repository" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="261" y="270" width="80" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Okl-b59bCGvQ6j7a5-xh-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -33,8 +33,8 @@
         <mxCell id="Okl-b59bCGvQ6j7a5-xh-15" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fontColor=#000000;strokeColor=#00CCCC;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="370" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Okl-b59bCGvQ6j7a5-xh-17" value="&lt;b&gt;New feature&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Acknowledgement of the change request&lt;/b&gt;&lt;br&gt;	&lt;br&gt;&amp;gt; I have the same understanding as the request issuer&lt;br&gt;	&amp;gt; I know the validation tests that will be executed by the issuer&lt;br&gt;	&amp;gt; I know the data sets to be used and tested&lt;br&gt;	&amp;gt; I understand the nominal path vx exception path and agree on it with the issuer&lt;br&gt;&lt;br&gt;&lt;b&gt;Technical Analysis&lt;/b&gt;&lt;br&gt;&lt;br&gt;&amp;gt; The solution design was provided by the Architect or Tech. lead&lt;br&gt;&amp;gt; I understand the solution to be implemented&lt;br&gt;&amp;gt; Security requirements have been validated with the CISO&lt;br&gt;&amp;gt; Quality team expectations have been added to the request&lt;br&gt;&amp;gt; Non functional requirements are documented (response time, production constraints,...)&lt;br&gt;&amp;gt; how errors need to be managed : technical errors, business errors,&amp;nbsp;&amp;nbsp;performance errors.&lt;br&gt;&amp;gt; I know the dependencies (api, file, database,...)&lt;br&gt;&amp;gt; My development environment fulfills all the requirements to implement and test the feature&lt;br&gt;&amp;gt; Do I need to toggle features ?&lt;br&gt;&amp;gt; I can explain to my developer colleagues how I&#39;m going to implement it&lt;br&gt;&amp;gt; I can estimate the global workload for the sub tasks :&lt;br&gt;&lt;span&gt;	&lt;/span&gt;- setup dev environment&lt;br&gt;&lt;span&gt;	&lt;/span&gt;- further analysis or POC to be done&lt;br&gt;&lt;span&gt;	&lt;/span&gt;- implement feature&lt;br&gt;&lt;span&gt;	&lt;/span&gt;- implement Unit tests&lt;br&gt;&lt;span&gt;	&lt;/span&gt;- implement functional tests&lt;br&gt;&lt;br&gt;&lt;b&gt;Implement&lt;br&gt;&lt;/b&gt;&lt;br&gt;- develop the feature&lt;br&gt;- develop UT&lt;br&gt;- execute UT local&lt;br&gt;&lt;br&gt;&lt;b&gt;Deliver code &amp;amp; update documentation&lt;/b&gt;&lt;br&gt;- document work done :&lt;br&gt;&lt;span&gt;	&lt;/span&gt;- releasing instructions&lt;br&gt;&lt;span&gt;	&lt;/span&gt;- document solution design&lt;br&gt;&lt;span&gt;	&lt;/span&gt;- document CI-CD requisites&lt;br&gt;&lt;span&gt;	&lt;/span&gt;- document troubleshooting&lt;br&gt;- create PR&lt;br&gt;- Merge PR&lt;br&gt;- update Task status&lt;br&gt;&amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="90" y="490" width="510" height="670" as="geometry" />
+        <mxCell id="Okl-b59bCGvQ6j7a5-xh-17" value="&lt;b&gt;New feature&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Acknowledgement of the change request&lt;/b&gt;&lt;br&gt;	&lt;br&gt;&amp;gt; I have the same understanding as the request issuer&lt;br&gt;	&amp;gt; I know the validation tests that will be executed by the issuer&lt;br&gt;	&amp;gt; I know the data sets to be used and tested&lt;br&gt;	&amp;gt; I understand the nominal path vx exception path and agree on it with the issuer&lt;br&gt;&lt;br&gt;&lt;b&gt;Technical Analysis&lt;/b&gt;&lt;br&gt;&lt;br&gt;&amp;gt; The solution design was provided by the Architect or Tech. lead&lt;br&gt;&amp;gt; I understand the solution to be implemented&lt;br&gt;&amp;gt; Security requirements have been validated with the CISO&lt;br&gt;&amp;gt; Quality team expectations have been added to the request&lt;br&gt;&amp;gt; Non functional requirements are documented (response time, production constraints,...)&lt;br&gt;&amp;gt; how errors need to be managed : technical errors, business errors,&amp;nbsp;&amp;nbsp;performance errors.&lt;br&gt;&amp;gt; I know the dependencies (api, file, database,...)&lt;br&gt;&amp;gt; My development environment fulfills all the requirements to implement and test the feature&lt;br&gt;&amp;gt; Do I need to toggle features ?&lt;br&gt;&amp;gt; I can explain to my developer colleagues how I&#39;m going to implement it&lt;br&gt;&amp;gt; I can estimate the global workload for the sub tasks :&lt;br&gt;&lt;span&gt;	&lt;/span&gt;- setup dev environment&lt;br&gt;&lt;span&gt;	&lt;/span&gt;- further analysis or POC to be done&lt;br&gt;&lt;span&gt;	&lt;/span&gt;- implement feature&lt;br&gt;&lt;span&gt;	&lt;/span&gt;- implement Unit tests&lt;br&gt;&lt;span&gt;	&lt;/span&gt;- implement functional tests&lt;br&gt;&lt;br&gt;&lt;b&gt;Implement&lt;br&gt;&lt;/b&gt;&lt;br&gt;- develop the feature&lt;br&gt;- develop UT&lt;br&gt;- execute UT local&lt;br&gt;&lt;br&gt;&lt;b&gt;Deliver code &amp;amp; update documentation&lt;/b&gt;&lt;br&gt;- document work done :&lt;br&gt;&lt;span&gt;	&lt;/span&gt;- releasing instructions&lt;br&gt;&lt;span&gt;	&lt;/span&gt;- document solution design&lt;br&gt;&lt;span&gt;	&lt;/span&gt;- document CI-CD requisites&lt;br&gt;&lt;span&gt;	&lt;/span&gt;- document troubleshooting&lt;br&gt;- create PR&lt;br&gt;- Merge PR&lt;br&gt;- update Task status&lt;br&gt;&amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="490" width="530" height="670" as="geometry" />
         </mxCell>
         <mxCell id="Okl-b59bCGvQ6j7a5-xh-18" value="Technical documentation referential" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-85" y="171" width="150" height="40" as="geometry" />
@@ -65,6 +65,23 @@
         </mxCell>
         <mxCell id="Okl-b59bCGvQ6j7a5-xh-30" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px&quot;&gt;Deliver&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=13;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="540" y="430" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Okl-b59bCGvQ6j7a5-xh-31" value="Local&lt;br&gt;Git &lt;br&gt;Repository" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="590" y="270" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Okl-b59bCGvQ6j7a5-xh-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="314.5" as="sourcePoint" />
+            <mxPoint x="570" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Okl-b59bCGvQ6j7a5-xh-34" value="commit&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Okl-b59bCGvQ6j7a5-xh-33">
+          <mxGeometry x="-0.28" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Okl-b59bCGvQ6j7a5-xh-35" value="pull frequently&lt;br&gt;push infrequently&lt;br&gt;commit frequently&lt;br&gt;merge forward frequently&lt;br&gt;&lt;br&gt;pull before push&lt;br&gt;create PR&lt;br&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+          <mxGeometry x="490" y="490" width="160" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
