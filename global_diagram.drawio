@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T09:51:25.156Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="IgeZyq8jOQzOabINAPbF" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-26T09:54:40.415Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="906QOiJfnKS-NoDSX8mv" version="17.4.6" type="github">
   <diagram id="CXVG7vs0zBUS6ajzZXRc" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -140,13 +140,13 @@
         </mxCell>
         <mxCell id="Okl-b59bCGvQ6j7a5-xh-54" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="990" y="269" as="sourcePoint" />
-            <mxPoint x="1190" y="269" as="targetPoint" />
+            <mxPoint x="980" y="238" as="sourcePoint" />
+            <mxPoint x="1180" y="238" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Okl-b59bCGvQ6j7a5-xh-55" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;&amp;nbsp;Merge Pull Request&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBorderColor=default;" vertex="1" connectable="0" parent="Okl-b59bCGvQ6j7a5-xh-54">
           <mxGeometry x="-0.28" relative="1" as="geometry">
-            <mxPoint x="28" as="offset" />
+            <mxPoint x="18" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Okl-b59bCGvQ6j7a5-xh-56" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.53;dx=32;direction=south;notch=9;labelBorderColor=default;fontSize=12;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
@@ -175,6 +175,23 @@
         </mxCell>
         <mxCell id="Okl-b59bCGvQ6j7a5-xh-64" value="publish artefact" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1271" y="275" width="150" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Okl-b59bCGvQ6j7a5-xh-65" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px&quot;&gt;Continuous Delivery&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=13;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="400" width="780" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Okl-b59bCGvQ6j7a5-xh-66" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1470" y="231.5" as="sourcePoint" />
+            <mxPoint x="1630" y="232" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Okl-b59bCGvQ6j7a5-xh-67" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;&amp;nbsp;deploy QA&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBorderColor=default;" vertex="1" connectable="0" parent="Okl-b59bCGvQ6j7a5-xh-66">
+          <mxGeometry x="-0.28" relative="1" as="geometry">
+            <mxPoint x="22" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Okl-b59bCGvQ6j7a5-xh-68" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/32x32/actions/ok.png;labelBorderColor=default;fontSize=12;fontColor=#000000;strokeColor=default;fillColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="1428" y="216" width="32" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
