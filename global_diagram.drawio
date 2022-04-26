@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T11:59:40.090Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="veYFu_XJ0BtaW49fppYe" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-26T12:11:54.327Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="2uFWkKbToj107W5HxxJ8" version="17.4.6" type="github">
   <diagram id="CXVG7vs0zBUS6ajzZXRc" name="Page-1">
     <mxGraphModel dx="2249" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Okl-b59bCGvQ6j7a5-xh-2" value="Task Management tool" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-85.5" y="91" width="150" height="40" as="geometry" />
+          <mxGeometry x="-85.5" y="30" width="150" height="101" as="geometry" />
         </mxCell>
         <mxCell id="Okl-b59bCGvQ6j7a5-xh-3" value="developer" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;fontColor=#004C99;" vertex="1" parent="1">
           <mxGeometry x="130" y="290" width="47.5" height="50" as="geometry" />
@@ -240,7 +240,7 @@
             <mxPoint x="22" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Okl-b59bCGvQ6j7a5-xh-95" value="key user" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;fontColor=#004C99;" vertex="1" parent="1">
+        <mxCell id="Okl-b59bCGvQ6j7a5-xh-95" value="key user" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#36393d;fillColor=#cdeb8b;shape=mxgraph.azure.user;" vertex="1" parent="1">
           <mxGeometry x="2134.5" y="215" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Okl-b59bCGvQ6j7a5-xh-96" value="feature tests" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
@@ -264,7 +264,10 @@
         <mxCell id="Okl-b59bCGvQ6j7a5-xh-102" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.ecs_task;labelBorderColor=default;" vertex="1" parent="1">
           <mxGeometry x="2138.5" y="18.5" width="37" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="Okl-b59bCGvQ6j7a5-xh-103" value="key user" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;fontColor=#004C99;" vertex="1" parent="1">
+        <mxCell id="Okl-b59bCGvQ6j7a5-xh-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="Okl-b59bCGvQ6j7a5-xh-103" target="Okl-b59bCGvQ6j7a5-xh-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Okl-b59bCGvQ6j7a5-xh-103" value="IT ops" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;fontColor=#004C99;" vertex="1" parent="1">
           <mxGeometry x="2134.5" y="81" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Okl-b59bCGvQ6j7a5-xh-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="Okl-b59bCGvQ6j7a5-xh-104" target="Okl-b59bCGvQ6j7a5-xh-101">
@@ -280,7 +283,7 @@
           <mxGeometry x="2190" y="350" width="152.5" height="32" as="geometry" />
         </mxCell>
         <mxCell id="Okl-b59bCGvQ6j7a5-xh-108" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px&quot;&gt;Continuous Deployment&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=13;strokeColor=#6c8ebf;fillColor=#dae8fc;size=20;" vertex="1" parent="1">
-          <mxGeometry x="2340" y="400" width="440" height="20" as="geometry" />
+          <mxGeometry x="2340" y="400" width="870" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Okl-b59bCGvQ6j7a5-xh-109" value="g" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -305,7 +308,7 @@
         <mxCell id="Okl-b59bCGvQ6j7a5-xh-118" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.ecs_task;labelBorderColor=default;" vertex="1" parent="1">
           <mxGeometry x="2568.5" y="18.5" width="37" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="Okl-b59bCGvQ6j7a5-xh-119" value="key user" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;fontColor=#004C99;" vertex="1" parent="1">
+        <mxCell id="Okl-b59bCGvQ6j7a5-xh-119" value="IT ops" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;fontColor=#004C99;" vertex="1" parent="1">
           <mxGeometry x="2564.5" y="81" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Okl-b59bCGvQ6j7a5-xh-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="Okl-b59bCGvQ6j7a5-xh-121" target="Okl-b59bCGvQ6j7a5-xh-117">
@@ -315,10 +318,10 @@
           <mxGeometry x="2618.5" y="77" width="150" height="32" as="geometry" />
         </mxCell>
         <mxCell id="Okl-b59bCGvQ6j7a5-xh-122" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.monitor_running_apps;labelBorderColor=default;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="2556" y="-40" width="50" height="39" as="geometry" />
+          <mxGeometry x="2556.5" y="216" width="50" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Okl-b59bCGvQ6j7a5-xh-123" value="monitor Env." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="2616" y="-40" width="152.5" height="32" as="geometry" />
+          <mxGeometry x="2616.5" y="216" width="152.5" height="32" as="geometry" />
         </mxCell>
         <mxCell id="Okl-b59bCGvQ6j7a5-xh-125" value="" style="fillColor=#28A8E0;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.analysis_correlation;labelBorderColor=default;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1226.64" y="101" width="34.5" height="33" as="geometry" />
@@ -337,6 +340,12 @@
         </mxCell>
         <mxCell id="Okl-b59bCGvQ6j7a5-xh-130" value="master branch" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=offPageConnector;rounded=0;size=0.6666666666666666;labelBorderColor=default;fontSize=12;strokeColor=#36393d;fillColor=#f9f7ed;" vertex="1" parent="1">
           <mxGeometry x="2234.25" y="-120" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Okl-b59bCGvQ6j7a5-xh-131" value="end user" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#36393d;fillColor=#cdeb8b;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="2820" y="101" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Okl-b59bCGvQ6j7a5-xh-137" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Feedback loop&lt;br&gt;&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;- System monitoring&amp;nbsp;&lt;br&gt;&lt;/span&gt;- System alerting&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;- System logs&lt;br&gt;&lt;/span&gt;- Application logs&lt;br&gt;- Application Usage&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;div style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;- User feedback&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2589" y="460" width="180" height="193" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
