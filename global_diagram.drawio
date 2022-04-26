@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T09:48:00.847Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="hcLr1EtW916nXk3i2w8u" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-26T09:51:25.156Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="IgeZyq8jOQzOabINAPbF" version="17.4.6" type="github">
   <diagram id="CXVG7vs0zBUS6ajzZXRc" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,10 +124,10 @@
           <mxGeometry x="967.5" y="16" width="152.5" height="37" as="geometry" />
         </mxCell>
         <mxCell id="Okl-b59bCGvQ6j7a5-xh-49" value="update Task &amp;amp; notify" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1253.5" y="293" width="152.5" height="32" as="geometry" />
+          <mxGeometry x="1268.5" y="335" width="152.5" height="32" as="geometry" />
         </mxCell>
         <mxCell id="Okl-b59bCGvQ6j7a5-xh-50" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.ecs_task;labelBorderColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1204" y="300.5" width="37" height="48" as="geometry" />
+          <mxGeometry x="1219" y="333.5" width="37" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Okl-b59bCGvQ6j7a5-xh-51" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/success-filloutline/64/chart-analysis-analytics-data_analytics-pie_1-128.png;labelBorderColor=default;fontSize=12;fontColor=#000000;strokeColor=default;fillColor=#FFB570;" vertex="1" parent="1">
           <mxGeometry x="402" y="260" width="33" height="33" as="geometry" />
@@ -153,22 +153,28 @@
           <mxGeometry x="930.5" y="134" width="29.5" height="66" as="geometry" />
         </mxCell>
         <mxCell id="Okl-b59bCGvQ6j7a5-xh-57" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=deploy;labelBorderColor=default;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1197" y="171" width="50" height="48" as="geometry" />
+          <mxGeometry x="1212" y="155" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Okl-b59bCGvQ6j7a5-xh-58" value="deploy on Integration server" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1253.5" y="171" width="152.5" height="32" as="geometry" />
+          <mxGeometry x="1268.5" y="155" width="152.5" height="32" as="geometry" />
         </mxCell>
         <mxCell id="Okl-b59bCGvQ6j7a5-xh-59" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Load_Test.svg;labelBorderColor=default;fontColor=#000000;strokeColor=default;fillColor=#FFB570;" vertex="1" parent="1">
-          <mxGeometry x="1199.64" y="235" width="44.73" height="43.41" as="geometry" />
+          <mxGeometry x="1214.64" y="219" width="44.73" height="43.41" as="geometry" />
         </mxCell>
         <mxCell id="Okl-b59bCGvQ6j7a5-xh-60" value="run Integration tests" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1254.75" y="235" width="150" height="32" as="geometry" />
+          <mxGeometry x="1269.75" y="219" width="150" height="32" as="geometry" />
         </mxCell>
         <mxCell id="Okl-b59bCGvQ6j7a5-xh-61" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.codebuild;fillColor=#759C3E;gradientColor=none;labelBorderColor=default;fontSize=12;fontColor=#000000;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="110" width="44.5" height="48" as="geometry" />
+          <mxGeometry x="1215" y="94" width="44.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Okl-b59bCGvQ6j7a5-xh-62" value="build snapshot" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1253.5" y="110" width="152.5" height="32" as="geometry" />
+          <mxGeometry x="1268.5" y="94" width="152.5" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Okl-b59bCGvQ6j7a5-xh-63" value="" style="shape=datastore;whiteSpace=wrap;html=1;labelBorderColor=default;fontSize=12;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="275" width="43" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Okl-b59bCGvQ6j7a5-xh-64" value="publish artefact" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1271" y="275" width="150" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
