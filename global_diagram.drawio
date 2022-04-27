@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-27T05:51:31.875Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="Eklb3E19-yJq8cdvsfRC" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-27T06:26:12.246Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="5RlASkHKic8OVr4VxoWs" version="17.4.6" type="github">
   <diagram id="CXVG7vs0zBUS6ajzZXRc" name="Page-1">
     <mxGraphModel dx="2249" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -376,6 +376,12 @@
         </mxCell>
         <mxCell id="Okl-b59bCGvQ6j7a5-xh-151" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://marvel-b1-cdn.bc0a.com/f00000000236551/dt-cdn.net/wp-content/uploads/2021/07/13429_ILL_DevOpsLoop.png;" vertex="1" parent="1">
           <mxGeometry x="-660" y="-880" width="763.14" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="Okl-b59bCGvQ6j7a5-xh-153" value="&lt;b&gt;DevOps definitions&lt;br&gt;&lt;br&gt;DevOps &lt;/b&gt;is the practice of &lt;b&gt;operations &lt;/b&gt;and &lt;b&gt;development &lt;/b&gt;engineers collaborating throughout the entire service &lt;b&gt;lifecycle&lt;/b&gt;, from initial concept through the development process to production support. They need to understand each other to better work together.&lt;br&gt;&lt;b&gt;Simple Concept but complicated to put it into practice&lt;/b&gt;&lt;br&gt;Cultural change is the most important&lt;br&gt;&lt;br&gt;&lt;b&gt;DevOps is Culture + practices + tools &lt;/b&gt;to increase Org ability to deliver applications and services rapidly without compromising quality. The speed allows better customer satisfaction + market competition.&lt;br&gt;&lt;br&gt;&lt;b&gt;DevOps&lt;/b&gt; is about&amp;nbsp;TIME &amp;amp; QUALITY by automating processes between dev and ops teams / communicate / collaborate&amp;nbsp; to break Silos in the Org. Move to a product-centric model , with high focus on the consumer.&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="-471" width="450" height="301" as="geometry" />
+        </mxCell>
+        <mxCell id="Okl-b59bCGvQ6j7a5-xh-154" value="&lt;b&gt;DevOps HowTo&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="-471" width="450" height="301" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
